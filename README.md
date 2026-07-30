@@ -152,6 +152,12 @@ Submission Date: 30/07/2026
 # 📸 Project Screenshots
 
 <img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/14ecb125-0fa9-4209-bb42-1229753e0840" />
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/560e6f4b-ad7f-4f9c-aa8a-52997eb718d5" />
+<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/84cb2515-d872-4776-a04a-16ca24c43385" />
+
+
+
+
 
 
 ---
